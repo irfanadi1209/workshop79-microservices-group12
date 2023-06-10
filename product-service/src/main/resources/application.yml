@@ -1,0 +1,12 @@
+# spring:
+#   datasource:
+#     driver-class-name: org.postgresql.Driver
+#     url: jdbc:postgresql://localhost:5432/product_db_ws79
+#     username: postgres
+#     password: pgsqlpassword1
+#   jpa:
+#     properties:
+#       hibernate:
+#         dialect: org.hibernate.dialect.PostgreSQLDialect
+#         show_sql: true
+#         format_sql: true
